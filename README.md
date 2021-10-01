@@ -1,3 +1,3 @@
 # moma-worpresstheme
 dapotheme
-![Alt text](approve comments.png)
+![Alt text](approve%20comments.png)
